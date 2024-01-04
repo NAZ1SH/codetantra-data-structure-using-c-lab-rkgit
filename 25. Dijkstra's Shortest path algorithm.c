@@ -1,3 +1,5 @@
+//Dijkstra's Shortest path algorithm
+
 #include <limits.h> 
 #include <stdio.h>
 #define MAX 20
