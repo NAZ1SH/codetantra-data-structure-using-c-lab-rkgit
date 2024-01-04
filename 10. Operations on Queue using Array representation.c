@@ -1,3 +1,5 @@
+//Write a C program to implement different Operations on Queue using Array representation
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_SIZE 100
