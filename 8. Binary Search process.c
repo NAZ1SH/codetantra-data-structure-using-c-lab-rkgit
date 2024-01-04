@@ -1,3 +1,5 @@
+//Write a C program to Search an element using Binary Search process
+
 #include<stdio.h>
 int search(int arr[], int size,int element)
 {
