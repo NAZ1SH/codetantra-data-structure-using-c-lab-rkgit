@@ -1,3 +1,5 @@
+//Minimum spanning tree - Prim's algorithm
+
 #include<stdio.h>
 #include<conio.h>
 int a,b,u,v,n,i,j,ne=1,e,s,d,w;
