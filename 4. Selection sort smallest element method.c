@@ -1,3 +1,5 @@
+//Write a C program to sort given elements using Selection sort smallest element method
+
 #include<stdio.h>
 int main()
 {
