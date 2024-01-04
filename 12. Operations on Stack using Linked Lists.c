@@ -1,3 +1,5 @@
+//Write a C program to implement different Operations on Stack using Linked Lists
+
 #include <stdio.h>
 #include <stdlib.h>
 struct Node {
