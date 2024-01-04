@@ -1,4 +1,6 @@
-#include <stdio.h>
+//Write a C program to implement different Operations on Stack using Arrays.
+
+ #include <stdio.h>
  #include <stdlib.h>
  #define MAX_SIZE 10
  int stack[MAX_SIZE];
