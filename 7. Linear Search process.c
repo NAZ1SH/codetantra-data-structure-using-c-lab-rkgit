@@ -1,3 +1,5 @@
+//Write a C program to Search an element using Linear Search process
+
 #include<stdio.h>
 void main()
 {
