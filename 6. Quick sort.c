@@ -1,3 +1,5 @@
+//Write a C program to Sort given elements using Quick sort
+
 void display (int arr[15], int n)
 { 
     for (int i = 0; i < n; i++) {
