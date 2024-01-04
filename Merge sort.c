@@ -1,3 +1,7 @@
+//Write a C program to Sort given elements using Merge sort	
+
+#include <stdio.h>
+
 void display (int arr[15],int n){
    int i;
    for(i=0;i<n;i++){
