@@ -1,3 +1,5 @@
+//Implementation of Circular Queue using Arrays
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 5 //Maximum size of the circular queue 
